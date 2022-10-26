@@ -9,3 +9,9 @@ def wxyzwxyzwxyz():
 
 def wxyzwxyzwxyzwxyz():
     print("z")
+
+if __name__ == "__main__":
+    wxyz()
+    wxyzwxyz()
+    wxyzwxyzwxyz()
+    wxyzwxyzwxyzwxyz()
